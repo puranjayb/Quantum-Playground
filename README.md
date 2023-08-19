@@ -107,7 +107,8 @@
 </td>
 
 <td>
-**Deeksha A**
+   
+**Diya V**
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/115879925?v=4"  height="120" alt="Deeksha">
@@ -122,6 +123,7 @@
 </td>
 
 <td>
+   
 **Arvind A**
 
 <p align="center">
