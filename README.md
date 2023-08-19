@@ -106,6 +106,7 @@
 </p>
 </td>
 
+<td>
 **Deeksha A**
 
 <p align="center">
@@ -120,6 +121,7 @@
 </p>
 </td>
 
+<td>
 **Arvind A**
 
 <p align="center">
